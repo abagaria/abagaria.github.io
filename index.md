@@ -9,10 +9,11 @@ social_media: true
 
 I am a first year Ph.D. student in
 <a href="http://sc.cs.cmu.edu/" target="_blank">Societal Computing</a>
-at Carnegie Mellon University advised by
+at Carnegie Mellon University.
+I am advised by
 <a href="http://zicokolter.com/" target="_blank">Zico Kolter</a>.
-My research interests involve using artificial intelligence, specifically reinforcement learning, to address social challenges, with a particular interest in sustainability.
-My current research focuses on safely exploring the dynamics of real-world systems in order to avoid damaging the system.
+My research involves using artificial intelligence, specifically reinforcement learning, to address social challenges, with a particular interest in environmental sustainability.
+My current research focuses on safely exploring the dynamics of real-world systems.
 I am applying this work to improve the energy efficiency of complex systems, such as in car engines and nuclear reactors.
 
 
