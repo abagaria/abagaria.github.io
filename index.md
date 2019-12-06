@@ -3,7 +3,7 @@ layout: page
 title: Akhil Bagaria
 subtitle: Ph.D. Student in Computer Science
 subtitle2: Brown University
-img: img/akhilbagaria.JPG
+img: img/abagaria.JPG
 social_media: true
 ---
 
