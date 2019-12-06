@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Melrose Roderick
-subtitle: Ph.D. Student in Societal Computing
-subtitle2: Carnegie Mellon University
-img: img/melroderick.jpg
+title: Akhil Bagaria
+subtitle: Ph.D. Student in Computer Science
+subtitle2: Brown University
+img: img/akhilbagaria.JPG
 social_media: true
 ---
 
