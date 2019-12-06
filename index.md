@@ -9,6 +9,6 @@ social_media: true
 
 I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>.
 
-I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">Reinforcement Learning (RL)</a> with the goal of creating general purpose robots that can learn by simply interacting with the environment. More specifically, my research is trying to equip RL agents with the ability to take any complex problem and break it down into simpler sub-problems. The question of how AI agents can do this automomously from raw sensorimotor data can be formulated as the Hierarchical Reinforcement Learning (HRL) problem.
+I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">Reinforcement Learning (RL)</a> with the goal of creating general purpose robots that can learn from raw sensorimotor data. Through work in Hierarchical Reinforcement Learning (HRL), I am trying to enable RL agents to better solve complex problems by first discovering useful sub-problems. I believe that the ability to autonomously discover and solve such sub-problems will allow us to create generally intelligent robots that can perform robustly in the real world.
 
 ### __Publications__
