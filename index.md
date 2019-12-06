@@ -7,8 +7,8 @@ img: img/abagaria.JPG
 social_media: true
 ---
 
-I am a second year Ph.D. student in
-<a href="http://sc.cs.cmu.edu/" target="_blank">Societal Computing</a>
+I am a first year Ph.D. student in
+<a href="https://cs.brown.edu/" target="_blank">Computer Science</a>
 at Carnegie Mellon University.
 I am advised by
 <a href="http://zicokolter.com/" target="_blank">Zico Kolter</a>.
