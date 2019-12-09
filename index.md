@@ -18,8 +18,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 * <a href="https://drive.google.com/file/d/10HayIdinBrB5gc451XaNX6i8zD-lRw4n/view" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
 __Akhil Bagaria__ and George Konidaris \\
 Proceedings of the Deep Reinforcement Learning Workshop, NeurIPS 2019 \\
-&nbsp;
-<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
+&nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
  <a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
 
 
