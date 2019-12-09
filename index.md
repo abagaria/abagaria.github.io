@@ -14,3 +14,10 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __Publications__
+
+* <a href="https://drive.google.com/file/d/10HayIdinBrB5gc451XaNX6i8zD-lRw4n/view" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
+__Akhil Bagaria__ and George Konidaris \\
+_Proceedings of the Deep Reinforcement Learning Workshop, NeurIPS 2019 \\
+&nbsp;
+<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
+
