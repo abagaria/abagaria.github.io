@@ -20,4 +20,6 @@ __Akhil Bagaria__ and George Konidaris \\
 Proceedings of the Deep Reinforcement Learning Workshop, NeurIPS 2019 \\
 &nbsp;
 <a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
+ <a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
+
 
