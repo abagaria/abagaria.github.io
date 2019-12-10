@@ -23,5 +23,5 @@ Proceedings of the Deep Reinforcement Learning Workshop, NeurIPS 2019 \\
 
 * <a href="https://openreview.net/pdf?id=B1grPT9GTH" target="_blank">Replication of a Unified Bellman Optimality Principle Combining Reward Maximization and Empowerment</a> \\ 
 __Akhil Bagaria__, Seungchan Kim, Alessio Mazzetto, Rafael Rodriguez-Sanchez \\
-In Submission, NeurIPS 2019 Replication Challenge
+In Submission, NeurIPS 2019 Replication Challenge \\
 
