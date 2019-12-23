@@ -13,6 +13,11 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
+### __News__
+* Dec 2019: Our paper Option Discovery using Deep Skill Chaining has been accepted for ICLR 2020! Can't wait to go to Ethiopia!
+* Dec 2019: I presented a poster on skill discovery at the Deep Reinforcement Learning Workshop at NeurIPS in Vancover, Canada
+* Oct 2019: I proposed my research comps on "Skill Discovery for Long Horizon Problems". Thanks to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a> for their valuable feedback. Looking forward to making some progress on this problem and defending next semester!
+
 ### __Publications__
 
 * <a href="https://drive.google.com/file/d/10HayIdinBrB5gc451XaNX6i8zD-lRw4n/view" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
