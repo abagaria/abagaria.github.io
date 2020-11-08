@@ -27,12 +27,6 @@ __Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
 Proceedings of the 4th Lifelong Learning Workshop, ICML 2020\\
 
 * <a href="https://openreview.net/pdf?id=B1gqipNYwH" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
-__Akhil Bagaria__ and George Konidaris\\
-Proceedings of the International Conference of Learning Representations (ICLR) 2020\\
-&nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
-<a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
-
-* <a href="https://openreview.net/pdf?id=B1gqipNYwH" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
 __Akhil Bagaria__ and George Konidaris  
 Proceedings of the International Conference on Learning Representations (ICLR) 2020  
 &nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
