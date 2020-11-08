@@ -14,22 +14,23 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
-* **Jun 2020**: I virtually presented my poster for Deep Skill Chaining at ICLR 2020. Here is the link to my recorded video <a href="https://iclr.cc/virtual_2020/poster_B1gqipNYwH.html" target="_blank"> presentation</a>.
+* **Jul 2020**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted at the <a href="https://lifelongml.github.io" target="_blank">4th Lifelong Learning Workshop</a> at ICML 2020. It was great fun to present this paper virtually at the workshop.
+* **Apr 2020**: I virtually presented my poster for Deep Skill Chaining at ICLR 2020. Here is the link to my recorded video <a href="https://iclr.cc/virtual_2020/poster_B1gqipNYwH.html" target="_blank"> presentation</a>.
 * **Dec 2019**: Our paper *Option Discovery using Deep Skill Chaining* has been accepted for ICLR 2020! Can't wait to go to Ethiopia!
 * **Dec 2019**: I presented a poster on skill discovery at the Deep Reinforcement Learning Workshop at NeurIPS in Vancover, Canada
 * **Oct 2019**: I proposed my research comps on *Skill Discovery for Long Horizon Problems*. Thanks to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a> for their valuable feedback. Looking forward to making some progress on this problem and defending next semester!
 
 ### __Publications__
 
+* <a href="https://openreview.net/pdf?id=-mvAo5hWNp" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
+__Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
+Proceedings of the 4th Lifelong Learning Workshop, ICML 2020\\
+
 * <a href="https://openreview.net/pdf?id=B1gqipNYwH" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
 __Akhil Bagaria__ and George Konidaris\\
 Proceedings of the International Conference of Learning Representations (ICLR) 2020\\
 &nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
- <a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
-
-* <a href="https://drive.google.com/file/d/10HayIdinBrB5gc451XaNX6i8zD-lRw4n/view" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
-__Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris
-Proceedings of the Lifelong Learning Workshop, ICML 2020
+<a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
 
 * <a href="https://openreview.net/pdf?id=B1gqipNYwH" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
 __Akhil Bagaria__ and George Konidaris  
