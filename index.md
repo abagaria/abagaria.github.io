@@ -21,6 +21,12 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 ### __Publications__
 
+* <a href="https://openreview.net/pdf?id=B1gqipNYwH" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
+__Akhil Bagaria__ and George Konidaris\\
+Proceedings of the International Conference of Learning Representations (ICLR) 2020\\
+&nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
+ <a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
+
 * <a href="https://drive.google.com/file/d/10HayIdinBrB5gc451XaNX6i8zD-lRw4n/view" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
 __Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris
 Proceedings of the Lifelong Learning Workshop, ICML 2020
@@ -39,6 +45,6 @@ Proceedings of the Deep Reinforcement Learning Workshop, NeurIPS 2019
 
 * <a href="https://openreview.net/pdf?id=B1grPT9GTH" target="_blank">Replication of a Unified Bellman Optimality Principle Combining Reward Maximization and Empowerment</a>  
 __Akhil Bagaria__, Seungchan Kim, Alessio Mazzetto, Rafael Rodriguez-Sanchez  
-In Submission, NeurIPS 2019 Replication Challenge  
+Accepted, NeurIPS 2019 Replication Challenge  
 <a href="https://github.com/eac-replication/eac-replication" target="_blank">[code]</a>
 
