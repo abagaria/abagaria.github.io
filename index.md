@@ -24,7 +24,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 * <a href="https://openreview.net/pdf?id=-mvAo5hWNp" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
 __Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
-Proceedings of the 4th Lifelong Learning Workshop, ICML 2020\\
+Proceedings of the 4th Lifelong Learning Workshop, ICML 2020
 
 * <a href="https://openreview.net/pdf?id=B1gqipNYwH" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
 __Akhil Bagaria__ and George Konidaris  
