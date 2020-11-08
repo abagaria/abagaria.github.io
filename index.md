@@ -14,7 +14,7 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
-* **Jul 2020**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted at the <a href="https://lifelongml.github.io" target="_blank">4th Lifelong Learning Workshop</a> at ICML 2020. It was great fun to present this paper virtually at the workshop.
+* **Jul 2020**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted at the <a href="https://lifelongml.github.io" target="_blank">4th Lifelong Learning Workshop</a> at ICML 2020. It was great fun to present this paper virtually at the workshop!
 * **Apr 2020**: I virtually presented my poster for Deep Skill Chaining at ICLR 2020. Here is the link to my recorded video <a href="https://iclr.cc/virtual_2020/poster_B1gqipNYwH.html" target="_blank"> presentation</a>.
 * **Dec 2019**: Our paper *Option Discovery using Deep Skill Chaining* has been accepted for ICLR 2020! Can't wait to go to Ethiopia!
 * **Dec 2019**: I presented a poster on skill discovery at the Deep Reinforcement Learning Workshop at NeurIPS in Vancover, Canada
