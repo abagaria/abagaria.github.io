@@ -24,8 +24,9 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 ### __Publications__
 
-* Robustly Learning Composable Options in Deep Reinforcement Learning. \\
-__Akhil Bagaria__*, Jason Senthil*, Matt Slivinski, and George Konidaris. In Proceedings of the 30th International Joint Conference on Artificial Intelligence, August 2021.
+* Robustly Learning Composable Options in Deep Reinforcement Learning.
+__Akhil Bagaria__*, Jason Senthil*, Matt Slivinski, and George Konidaris. 
+In Proceedings of the 30th International Joint Conference on Artificial Intelligence, August 2021.
 
 * <a href="https://openreview.net/pdf?id=-mvAo5hWNp" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
 __Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
