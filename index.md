@@ -25,12 +25,12 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 ### __Publications__
 
-* Skill Discovery for Exploration and Planning. \\
+* <a href="http://proceedings.mlr.press/v139/bagaria21a.html" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
 __Akhil Bagaria__, Jason Senthil and George Konidaris.\\
 In Proceedings of the Thirty-eighth International Conference on Machine Learning. \\
 Accepted for a __Long Talk (Top 10%)__
 
-* Robustly Learning Composable Options in Deep Reinforcement Learning.\\
+*  <a href="https://www.ijcai.org/proceedings/2021/298" target="_blank">Robustly Learning Composable Options in Deep Reinforcement Learning</a>\\
 __Akhil Bagaria__\*, Jason Senthil\*, Matt Slivinski, and George Konidaris.\\
 In Proceedings of the 30th International Joint Conference on Artificial Intelligence, August 2021.
 
