@@ -14,7 +14,8 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
-* **May 2021**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted for a **Long Talk (Top 10%)** at ICML 2021!
+* **December 2021**: Our paper *Optimistic Initialization for Exploration in Continuous Control* was accepted at AAAI! I think this paper marks the start of our journey in understanding the hard problem of exploration.
+* **May 2021**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted for a **Long Talk (Top 3% of sumbissions)** at ICML 2021! This paper was hard work, but signifies my main research interests.
 * **May 2021**: Our paper *Robustly Learning Composable Skills in Deep Reinforcement Learning* got accepted at IJCAI 2021! 
 * **April 2021**: I successfully defended my PhD comprehensive exams! I presented progress on *Skill Discovery for Long Horizon Problems* to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a>.
 * **Jul 2020**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted at the <a href="https://lifelongml.github.io" target="_blank">4th Lifelong Learning Workshop</a> at ICML 2020. It was great fun to present this paper virtually at the workshop!
@@ -25,24 +26,28 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 ### __Publications__
 
+*  Optimistic Initialization for Exploration in Continuous Control\\
+Sam Lobel, Omer Gottesman, Cam Allen, __Akhil Bagaria__, George Konidaris.\\
+In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22).
+
 * <a href="http://proceedings.mlr.press/v139/bagaria21a.html" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
 __Akhil Bagaria__, Jason Senthil and George Konidaris.\\
 In Proceedings of the Thirty-eighth International Conference on Machine Learning. \\
-Accepted for a __Long Talk (Top 10%)__
+Accepted for a __Long Talk (Top 3%)__
 
 *  <a href="https://www.ijcai.org/proceedings/2021/298" target="_blank">Robustly Learning Composable Options in Deep Reinforcement Learning</a>\\
 __Akhil Bagaria__\*, Jason Senthil\*, Matt Slivinski, and George Konidaris.\\
 In Proceedings of the 30th International Joint Conference on Artificial Intelligence, August 2021.
-
-* <a href="https://openreview.net/pdf?id=-mvAo5hWNp" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
-__Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
-Proceedings of the 4th Lifelong Learning Workshop, ICML 2020
 
 * <a href="https://openreview.net/pdf?id=B1gqipNYwH" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
 __Akhil Bagaria__ and George Konidaris  
 Proceedings of the International Conference on Learning Representations (ICLR) 2020  
 &nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
 <a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
+
+* <a href="https://openreview.net/pdf?id=-mvAo5hWNp" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
+__Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
+Proceedings of the 4th Lifelong Learning Workshop, ICML 2020
 
 * <a href="https://drive.google.com/file/d/10HayIdinBrB5gc451XaNX6i8zD-lRw4n/view" target="_blank">Option Discovery using Deep Skill Chaining</a> \\
 __Akhil Bagaria__ and George Konidaris  
