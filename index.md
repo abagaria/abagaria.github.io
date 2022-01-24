@@ -26,8 +26,8 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 ### __Publications__
 
-*  Optimistic Initialization for Exploration in Continuous Control\\
-Sam Lobel, Omer Gottesman, Cam Allen, __Akhil Bagaria__, George Konidaris.\\
+*  <a href="http://irl.cs.brown.edu/pubs/optinit_explore_control.pdf" target="_blank">Optimistic Initialization for Exploration in Continuous Control</a>\\
+Sam Lobel, __Akhil Bagaria__, Cam Allen, Omer Gottesman, George Konidaris.\\
 In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22).
 
 * <a href="http://proceedings.mlr.press/v139/bagaria21a.html" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
