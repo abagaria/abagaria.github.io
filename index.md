@@ -7,13 +7,15 @@ img: img/abagaria2.JPG
 social_media: true
 ---
 
-I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>. I am a part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative.
+I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>. I am a part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative. I will be interning at Deepmind, London this summer. 
 
 I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">Reinforcement Learning (RL)</a> with the goal of creating general purpose robots that can learn from raw sensorimotor data. I believe that the ability to discover representations that permit decision making over various timescales is a hallmark of intelligence and will allow AI agents to solve hard problems in harsh environments. As a result, I am currently working on solving the skill discovery problem - how can agents automatically break down complex problems into simpler sub-problems by simply interacting with their environment? 
 
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **March 2022**: I accepted an internship position at Deepmind, London for the upcoming summer under the mentorship of <a href="https://schaul.site44.com/">Tom Schaul</a>.
+* **March 2022**: I will be presenting 4 papers at RLDM: 2 first author papers (Skill Graphs and Pseudocount exploration) and 2 co-author papers (Average Options and Learning Salient Events in RL).
 * **December 2021**: Our paper *Optimistic Initialization for Exploration in Continuous Control* was accepted at AAAI! I think this paper marks the start of our journey in understanding the hard problem of exploration.
 * **May 2021**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted for a **Long Talk (Top 3% of sumbissions)** at ICML 2021! This paper was hard work, but signifies my main research interests.
 * **May 2021**: Our paper *Robustly Learning Composable Skills in Deep Reinforcement Learning* got accepted at IJCAI 2021! 
