@@ -15,7 +15,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 ### __News__
 * **March 2022**: I accepted an internship position at Deepmind, London for the upcoming summer under the mentorship of <a href="https://schaul.site44.com/">Tom Schaul</a>.
-* **March 2022**: I will be presenting 4 papers at RLDM: 2 first author papers (Skill Graphs and Pseudocount exploration) and 2 co-author papers (Average Options and Learning Salient Events in RL).
+* **March 2022**: I will be presenting 4 papers at RLDM: 2 first author papers (Skill Graphs and Pseudocount exploration) and 2 co-author papers (Average Options and Learning Salient Events in RL). If you are going to be at RLDM, let me know --- I am always up for a chat!
 * **December 2021**: Our paper *Optimistic Initialization for Exploration in Continuous Control* was accepted at AAAI! I think this paper marks the start of our journey in understanding the hard problem of exploration.
 * **May 2021**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted for a **Long Talk (Top 3% of sumbissions)** at ICML 2021! This paper was hard work, but signifies my main research interests.
 * **May 2021**: Our paper *Robustly Learning Composable Skills in Deep Reinforcement Learning* got accepted at IJCAI 2021! 
