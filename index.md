@@ -14,6 +14,7 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **Feb 2023**: After an amazing internship with Tom at Deepmind, I have published my internship paper to <a href="https://arxiv.org/abs/2302.04693v1">arxiv</a>.
 * **March 2022**: I accepted an internship position at Deepmind, London for the upcoming summer under the mentorship of <a href="https://schaul.site44.com/">Tom Schaul</a>.
 * **March 2022**: I will be presenting 4 papers at RLDM: 2 first author papers (Skill Graphs and Pseudocount exploration) and 2 co-author papers (Average Options and Learning Salient Events in RL). If you are going to be at RLDM, let me know --- I am always up for a chat!
 * **December 2021**: Our paper *Optimistic Initialization for Exploration in Continuous Control* was accepted at AAAI! I think this paper marks the start of our journey in understanding the hard problem of exploration.
@@ -27,6 +28,10 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 * **Oct 2019**: I proposed my research comps on *Skill Discovery for Long Horizon Problems*. Thanks to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a> for their valuable feedback. Looking forward to making some progress on this problem and defending next semester!
 
 ### __Publications__
+
+* <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
+__Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
+In Submission, IJCAI 2023.
 
 *  <a href="http://irl.cs.brown.edu/pubs/optinit_explore_control.pdf" target="_blank">Optimistic Initialization for Exploration in Continuous Control</a>\\
 Sam Lobel, __Akhil Bagaria__, Cam Allen, Omer Gottesman, George Konidaris.\\
