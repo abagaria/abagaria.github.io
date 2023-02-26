@@ -31,7 +31,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
 __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
-In Submission.
+Barbados Reinforcement Learning Workshop on Lifelong Reinforcement Learning. 2023.
 
 *  <a href="http://irl.cs.brown.edu/pubs/optinit_explore_control.pdf" target="_blank">Optimistic Initialization for Exploration in Continuous Control</a>\\
 Sam Lobel, __Akhil Bagaria__, Cam Allen, Omer Gottesman, George Konidaris.\\
