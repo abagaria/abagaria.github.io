@@ -7,13 +7,14 @@ img: img/abagaria2.JPG
 social_media: true
 ---
 
-I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>. I am a part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative. I will be interning at Deepmind, London this summer. 
+I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>. I am a part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative. I was an intern in David Silver's RL team at Deepmind, London in Summer 2022 where I was mentored by Tom Schaul.
 
 I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">Reinforcement Learning (RL)</a> with the goal of creating general purpose robots that can learn from raw sensorimotor data. I believe that the ability to discover representations that permit decision making over various timescales is a hallmark of intelligence and will allow AI agents to solve hard problems in harsh environments. As a result, I am currently working on solving the skill discovery problem - how can agents automatically break down complex problems into simpler sub-problems by simply interacting with their environment? 
 
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **Apr 2023**: Our paper on Proto-goal RL has been accepted at IJCAI 2023 -- looking forward to Macau!
 * **Feb 2023**: After an amazing internship with Tom at Deepmind, we have published my internship paper to <a href="https://arxiv.org/abs/2302.04693v1">arxiv</a>.
 * **March 2022**: I accepted an internship position at Deepmind, London for the upcoming summer under the mentorship of <a href="https://schaul.site44.com/">Tom Schaul</a>.
 * **March 2022**: I will be presenting 4 papers at RLDM: 2 first author papers (Skill Graphs and Pseudocount exploration) and 2 co-author papers (Average Options and Learning Salient Events in RL). If you are going to be at RLDM, let me know --- I am always up for a chat!
@@ -31,6 +32,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
 __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
+In Proceedings of the 32nd International Joint Conference on Artificial Intelligence, August 2023.\\
 Barbados Reinforcement Learning Workshop on Lifelong Reinforcement Learning. 2023.
 
 *  <a href="http://irl.cs.brown.edu/pubs/optinit_explore_control.pdf" target="_blank">Optimistic Initialization for Exploration in Continuous Control</a>\\
