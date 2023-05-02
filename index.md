@@ -7,7 +7,7 @@ img: img/abagaria2.JPG
 social_media: true
 ---
 
-I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>. I am a part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative. I was an intern in David Silver's RL team at Deepmind, London in Summer 2022 where I was mentored by Tom Schaul.
+I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>. I am a part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative. I was an intern in David Silver's RL team at <a href="https://www.deepmind.com/">DeepMind</a>, London in Summer 2022 where I was mentored by <a href="https://schaul.site44.com/">Tom Schaul</a>.
 
 I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">Reinforcement Learning (RL)</a> with the goal of creating general purpose robots that can learn from raw sensorimotor data. I believe that the ability to discover representations that permit decision making over various timescales is a hallmark of intelligence and will allow AI agents to solve hard problems in harsh environments. As a result, I am currently working on solving the skill discovery problem - how can agents automatically break down complex problems into simpler sub-problems by simply interacting with their environment? 
 
