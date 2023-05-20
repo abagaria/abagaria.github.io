@@ -14,7 +14,7 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
-* **May 2023**: Our paper on count-based exploration has been accepted for an oral at ICML! 
+* **May 2023**: Our paper on count-based exploration has been accepted for an *oral* at ICML, pre-print coming soon! 
 * **Apr 2023**: Our paper on Proto-goal RL has been accepted at IJCAI 2023 -- looking forward to Macau!
 * **Feb 2023**: After an amazing internship with Tom at Deepmind, we have published my internship paper to <a href="https://arxiv.org/abs/2302.04693v1">arxiv</a>.
 * **March 2022**: I accepted an internship position at Deepmind, London for the upcoming summer under the mentorship of <a href="https://schaul.site44.com/">Tom Schaul</a>.
