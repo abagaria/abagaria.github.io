@@ -34,7 +34,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
 __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
 In Proceedings of the 32nd International Joint Conference on Artificial Intelligence, August 2023.\\
-Barbados Reinforcement Learning Workshop on Lifelong Reinforcement Learning. 2023.
+Barbados Reinforcement Learning Workshop on Lifelong RL. 2023.
 
 * Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning\\
 Sam Lobel\*, __Akhil Bagaria__\*, George Konidaris.\\
