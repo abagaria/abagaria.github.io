@@ -39,7 +39,7 @@ Barbados Reinforcement Learning Workshop on Lifelong Reinforcement Learning. 202
 * Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning\\
 Sam Lobel\*, __Akhil Bagaria__\*, George Konidaris.\\
 (\*) Joint first authors.\\
-ICML 2023, Hawaii, **selected for an Oral.**
+ICML 2023, Hawaii, **selected for an Oral** presentation.
 
 *  <a href="http://irl.cs.brown.edu/pubs/optinit_explore_control.pdf" target="_blank">Optimistic Initialization for Exploration in Continuous Control</a>\\
 Sam Lobel, __Akhil Bagaria__, Cam Allen, Omer Gottesman, George Konidaris.\\
