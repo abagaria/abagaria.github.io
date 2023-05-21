@@ -36,6 +36,10 @@ __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
 In Proceedings of the 32nd International Joint Conference on Artificial Intelligence, August 2023.\\
 Barbados Reinforcement Learning Workshop on Lifelong Reinforcement Learning. 2023.
 
+* Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning\\
+Sam Lobel\*, __Akhil Bagaria__\*, George Konidaris.\\
+ICML 2023, Hawaii, **selected for an Oral.**
+
 *  <a href="http://irl.cs.brown.edu/pubs/optinit_explore_control.pdf" target="_blank">Optimistic Initialization for Exploration in Continuous Control</a>\\
 Sam Lobel, __Akhil Bagaria__, Cam Allen, Omer Gottesman, George Konidaris.\\
 In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22).
