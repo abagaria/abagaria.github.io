@@ -36,7 +36,7 @@ __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
 In Proceedings of the 32nd International Joint Conference on Artificial Intelligence, August 2023.\\
 Barbados Reinforcement Learning Workshop on Lifelong RL. 2023.
 
-* Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning\\
+* <a href="https://arxiv.org/pdf/2306.03186.pdf" target="_blank">Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning</a>\\
 Sam Lobel\*, __Akhil Bagaria__\*, George Konidaris.\\
 (\*) Joint first authors.\\
 ICML 2023, Hawaii, **selected for an Oral** presentation.
