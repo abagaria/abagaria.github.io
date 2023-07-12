@@ -29,7 +29,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 * **Dec 2019**: I presented a poster on skill discovery at the Deep Reinforcement Learning Workshop at NeurIPS in Vancover, Canada
 * **Oct 2019**: I proposed my research comps on *Skill Discovery for Long Horizon Problems*. Thanks to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a> for their valuable feedback. Looking forward to making some progress on this problem and defending next semester!
 
-### __Publications__
+### __Conference Publications__
 
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
 __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
@@ -60,9 +60,13 @@ Proceedings of the International Conference on Learning Representations (ICLR) 2
 &nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
 <a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
 
+
+### __In Submission__
 * Effectively Learning Initiation Sets in Hierarchical Reinforcement Learning \\
 __Akhil Bagaria__, Ben Abattamateo, Omer Gottesman, Sreehari Rammohan & George Konidaris\\
 In submission, NeurIPS 2023.
+
+### __Workshop Publications__
 
 * <a href="https://openreview.net/pdf?id=-mvAo5hWNp" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
 __Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
