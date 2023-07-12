@@ -14,13 +14,13 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
-* **May 2023**: Our paper on count-based exploration has been accepted for an *oral* at ICML, pre-print <a href="https://arxiv.org/pdf/2306.03186.pdf">here</a>! 
+* **May 2023**: Our paper on count-based exploration has been accepted for an **Oral at ICML**, pre-print <a href="https://arxiv.org/pdf/2306.03186.pdf">here</a>! 
 * **Apr 2023**: Our paper on Proto-goal RL has been accepted at IJCAI 2023 -- looking forward to Macau!
 * **Feb 2023**: After an amazing internship with Tom at Deepmind, we have published my internship paper to <a href="https://arxiv.org/abs/2302.04693v1">arxiv</a>.
 * **March 2022**: I accepted an internship position at Deepmind, London for the upcoming summer under the mentorship of <a href="https://schaul.site44.com/">Tom Schaul</a>.
 * **March 2022**: I will be presenting 4 papers at RLDM: 2 first author papers (Skill Graphs and Pseudocount exploration) and 2 co-author papers (Average Options and Learning Salient Events in RL). If you are going to be at RLDM, let me know --- I am always up for a chat!
 * **December 2021**: Our paper *Optimistic Initialization for Exploration in Continuous Control* was accepted at AAAI! I think this paper marks the start of our journey in understanding the hard problem of exploration.
-* **May 2021**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted for a **Long Talk (Top 3% of sumbissions)** at ICML 2021! This paper was hard work, but signifies my main research interests.
+* **May 2021**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted for a **Long Talk/Oral (Top 3% of sumbissions)** at ICML 2021! This paper was hard work, but signifies my main research interests.
 * **May 2021**: Our paper *Robustly Learning Composable Skills in Deep Reinforcement Learning* got accepted at IJCAI 2021! 
 * **April 2021**: I successfully defended my PhD comprehensive exams! I presented progress on *Skill Discovery for Long Horizon Problems* to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a>.
 * **Jul 2020**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted at the <a href="https://lifelongml.github.io" target="_blank">4th Lifelong Learning Workshop</a> at ICML 2020. It was great fun to present this paper virtually at the workshop!
@@ -33,7 +33,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
 __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
-In Proceedings of the 32nd International Joint Conference on Artificial Intelligence, August 2023.\\
+In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), Macau, August 2023.\\
 Barbados Reinforcement Learning Workshop on Lifelong RL. 2023.
 
 * <a href="https://arxiv.org/pdf/2306.03186.pdf" target="_blank">Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning</a>\\
@@ -59,6 +59,10 @@ __Akhil Bagaria__ and George Konidaris
 Proceedings of the International Conference on Learning Representations (ICLR) 2020  
 &nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
 <a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
+
+* Effectively Learning Initiation Sets in Hierarchical Reinforcement Learning \\
+__Akhil Bagaria__, Ben Abattamateo, Omer Gottesman, Sreehari Rammohan & George Konidaris\\
+In submission, NeurIPS 2023.
 
 * <a href="https://openreview.net/pdf?id=-mvAo5hWNp" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
 __Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
