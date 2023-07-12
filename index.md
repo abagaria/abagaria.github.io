@@ -33,7 +33,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
 __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
-In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), Macau, August 2023.\\
+In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), Macau, August 2023 and \\
 Barbados Reinforcement Learning Workshop on Lifelong RL. 2023.
 
 * <a href="https://arxiv.org/pdf/2306.03186.pdf" target="_blank">Flipping Coins to Estimate Pseudocounts for Exploration in Reinforcement Learning</a>\\
@@ -67,6 +67,10 @@ __Akhil Bagaria__, Ben Abattamateo, Omer Gottesman, Sreehari Rammohan & George K
 In submission, NeurIPS 2023.
 
 ### __Workshop Publications__
+
+* <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
+__Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
+Barbados Reinforcement Learning Workshop on Lifelong RL. 2023.
 
 * <a href="https://openreview.net/pdf?id=-mvAo5hWNp" target="_blank">Skill Discovery for Exploration and Planning using Deep Skill Graphs</a> \\
 __Akhil Bagaria__, Jason Crowley, Nicholas Lim & George Konidaris\\
