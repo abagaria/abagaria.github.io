@@ -14,6 +14,7 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **Jul 2023**: Finalized my PhD thesis committee: <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="http://incompleteideas.net/" target="_blank">Rich Sutton</a>. Hoping to propose my thesis soon. 
 * **May 2023**: Our paper on count-based exploration has been accepted for an **Oral at ICML**, pre-print <a href="https://arxiv.org/pdf/2306.03186.pdf">here</a>! 
 * **Apr 2023**: Our paper on Proto-goal RL has been accepted at IJCAI 2023 -- looking forward to Macau!
 * **Feb 2023**: After an amazing internship with Tom at Deepmind, we have published my internship paper to <a href="https://arxiv.org/abs/2302.04693v1">arxiv</a>.
