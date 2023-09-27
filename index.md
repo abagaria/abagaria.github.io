@@ -79,7 +79,7 @@ Accepted, NeurIPS 2019 Replication Challenge
 <a href="https://github.com/eac-replication/eac-replication" target="_blank">[code]</a>
 
 ### __Invited Talks__
-* Aug 2023: Bridging Planning and RL Workshop at IJCAI (<a href="https://prl-theworkshop.github.io/prl2023-ijcai/" target="_blank">PRL</a>) (_Skill Discovery for Exploration and Planning_).
+* Aug 2023: Bridging Planning and RL Workshop at IJCAI (<a href="https://prl-theworkshop.github.io/prl2023-ijcai/" target="_blank">PRL</a>).
 * April 2023: Spoke about learning abstractions at Mykel Kochenderfer's <a href="https://web.stanford.edu/group/sisl/cgi-bin/wordpress/">SISL group</a> at Stanford.
 * December 2022: Presented my research about exploration and discovery at DeepMind, Alberta.
 * November 2022: Presented my internship project about proto-goals at the RL Team meeting and exploration reading group at DeepMind, London.
