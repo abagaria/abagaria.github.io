@@ -34,7 +34,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 ### __Conference Publications__
 
 * Effectively Learning Initiation Sets in Hierarchical Reinforcement Learning \\
-__Akhil Bagaria__^*, Ben Abattamateo^*, Omer Gottesman, Sreehari Rammohan & George Konidaris\\
+__Akhil Bagaria__, Ben Abattamateo, Omer Gottesman, Sreehari Rammohan & George Konidaris\\
 In submission, NeurIPS 2023.
 
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
