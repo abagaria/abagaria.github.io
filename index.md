@@ -9,11 +9,12 @@ social_media: true
 
 I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>. I am a part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative. I was an intern in David Silver's RL team at <a href="https://www.deepmind.com/">DeepMind</a>, London in Summer 2022 where I was mentored by <a href="https://schaul.site44.com/">Tom Schaul</a>.
 
-I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">Reinforcement Learning (RL)</a> with the goal of creating general purpose agents that can learn from raw sensorimotor data. Currently, I am focussed on the problems of exploration and skill discovery.
+I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">Reinforcement Learning (RL)</a> with the goal of creating general-purpose agents that can learn from raw sensorimotor data. Currently, I am focussed on the problems of exploration and skill discovery.
 
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **Sep 2023**: Our paper on learning initiation sets / affordances has been accepted at NeurIPS!
 * **Jul 2023**: Finalized my PhD thesis committee: <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="http://incompleteideas.net/" target="_blank">Rich Sutton</a>. Hoping to propose my thesis soon. 
 * **May 2023**: Our paper on count-based exploration has been accepted for an **Oral at ICML**, pre-print <a href="https://arxiv.org/pdf/2306.03186.pdf">here</a>! 
 * **Apr 2023**: Our paper on Proto-goal RL has been accepted at IJCAI 2023 -- looking forward to Macau!
@@ -31,6 +32,10 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 * **Oct 2019**: I proposed my research comps on *Skill Discovery for Long Horizon Problems*. Thanks to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a> for their valuable feedback. Looking forward to making some progress on this problem and defending next semester!
 
 ### __Conference Publications__
+
+* Effectively Learning Initiation Sets in Hierarchical Reinforcement Learning \\
+__Akhil Bagaria__^*, Ben Abattamateo^*, Omer Gottesman, Sreehari Rammohan & George Konidaris\\
+In submission, NeurIPS 2023.
 
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
 __Akhil Bagaria__, Ray Jiang, Ramana Kumar, Tom Schaul.\\
@@ -61,12 +66,6 @@ Proceedings of the International Conference on Learning Representations (ICLR) 2
 &nbsp;<a href="https://github.com/deep-skill-chaining/deep-skill-chaining" target="_blank">[code]</a>
 <a href="https://www.youtube.com/watch?v=MGvvPmm6JQg&feature=youtu.be" target="_blank">[video]</a>
 
-
-### __In Submission__
-* Effectively Learning Initiation Sets in Hierarchical Reinforcement Learning \\
-__Akhil Bagaria__, Ben Abattamateo, Omer Gottesman, Sreehari Rammohan & George Konidaris\\
-In submission, NeurIPS 2023.
-
 ### __Workshop Publications__
 
 * <a href="https://arxiv.org/abs/2302.04693v1" target="_blank">Scaling Goal-based Exploration via Pruning Proto-goals</a>\\
@@ -87,4 +86,12 @@ Proceedings of the Deep Reinforcement Learning Workshop, NeurIPS 2019
 __Akhil Bagaria__, Seungchan Kim, Alessio Mazzetto, Rafael Rodriguez-Sanchez  
 Accepted, NeurIPS 2019 Replication Challenge  
 <a href="https://github.com/eac-replication/eac-replication" target="_blank">[code]</a>
+
+### __Invited Talks__
+* Aug 2023: Bridging Planning and RL Workshop at IJCAI (<a href="https://prl-theworkshop.github.io/prl2023-ijcai/" target="_blank">PRL</a>) (_Skill Discovery for Exploration and Planning_).
+* April 2023: Spoke about learning abstractions at Mykel Kochenderfer's SISL group at Stanford.
+* December 2022: Presented my research about exploration and discovery at DeepMind, Alberta.
+* November 2022: Presented my internship project about proto-goals at the RL Team meeting and exploration reading group at DeepMind, London.
+* August 2022: Presented about pseudocounts at the exploration reading group at DeepMind, London.
+
 
