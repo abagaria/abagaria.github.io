@@ -21,15 +21,6 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 * **Feb 2023**: After an amazing internship with Tom at Deepmind, we have published my internship paper to <a href="https://arxiv.org/abs/2302.04693v1">arxiv</a>.
 * **March 2022**: I accepted an internship position at Deepmind, London for the upcoming summer under the mentorship of <a href="https://schaul.site44.com/">Tom Schaul</a>.
 * **March 2022**: I will be presenting 4 papers at RLDM: 2 first author papers (Skill Graphs and Pseudocount exploration) and 2 co-author papers (Average Options and Learning Salient Events in RL). If you are going to be at RLDM, let me know --- I am always up for a chat!
-* **December 2021**: Our paper *Optimistic Initialization for Exploration in Continuous Control* was accepted at AAAI! I think this paper marks the start of our journey in understanding the hard problem of exploration.
-* **May 2021**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted for a **Long Talk/Oral (Top 3% of sumbissions)** at ICML 2021! This paper was hard work, but signifies my main research interests.
-* **May 2021**: Our paper *Robustly Learning Composable Skills in Deep Reinforcement Learning* got accepted at IJCAI 2021! 
-* **April 2021**: I successfully defended my PhD comprehensive exams! I presented progress on *Skill Discovery for Long Horizon Problems* to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a>.
-* **Jul 2020**: Our paper *Skill Discovery for Exploration and Planning using Deep Skill Graphs* was accepted at the <a href="https://lifelongml.github.io" target="_blank">4th Lifelong Learning Workshop</a> at ICML 2020. It was great fun to present this paper virtually at the workshop!
-* **Apr 2020**: I virtually presented my poster for Deep Skill Chaining at ICLR 2020. Here is the link to my recorded video <a href="https://iclr.cc/virtual_2020/poster_B1gqipNYwH.html" target="_blank"> presentation</a>.
-* **Dec 2019**: Our paper *Option Discovery using Deep Skill Chaining* has been accepted for ICLR 2020! Can't wait to go to Ethiopia!
-* **Dec 2019**: I presented a poster on skill discovery at the Deep Reinforcement Learning Workshop at NeurIPS in Vancover, Canada
-* **Oct 2019**: I proposed my research comps on *Skill Discovery for Long Horizon Problems*. Thanks to my committee members <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="https://h2r.cs.brown.edu" target="_blank">Stefanie Tellex</a> for their valuable feedback. Looking forward to making some progress on this problem and defending next semester!
 
 ### __Conference Publications__
 
@@ -89,7 +80,7 @@ Accepted, NeurIPS 2019 Replication Challenge
 
 ### __Invited Talks__
 * Aug 2023: Bridging Planning and RL Workshop at IJCAI (<a href="https://prl-theworkshop.github.io/prl2023-ijcai/" target="_blank">PRL</a>) (_Skill Discovery for Exploration and Planning_).
-* April 2023: Spoke about learning abstractions at Mykel Kochenderfer's SISL group at Stanford.
+* April 2023: Spoke about learning abstractions at Mykel Kochenderfer's <a href="https://web.stanford.edu/group/sisl/cgi-bin/wordpress/">SISL group</a> at Stanford.
 * December 2022: Presented my research about exploration and discovery at DeepMind, Alberta.
 * November 2022: Presented my internship project about proto-goals at the RL Team meeting and exploration reading group at DeepMind, London.
 * August 2022: Presented about pseudocounts at the exploration reading group at DeepMind, London.
