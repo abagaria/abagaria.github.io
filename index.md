@@ -14,8 +14,8 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
-* **Sep 2023**: Our paper on learning initiation sets / affordances has been accepted at NeurIPS!
-* **Jul 2023**: Finalized my PhD thesis committee: <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="http://incompleteideas.net/" target="_blank">Rich Sutton</a>. Hoping to propose my thesis soon. 
+* **Dec 2023**: I presented our <a href="https://openreview.net/pdf?id=4JCVw8oMlf" target="_blank">paper</a> on learning affordances at NeurIPS.
+* **Dec 2023**: I passed my PhD thesis proposal, my committee members are: <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="http://incompleteideas.net/" target="_blank">Rich Sutton</a>. 
 * **May 2023**: Our paper on count-based exploration has been accepted for an **Oral at ICML**, pre-print <a href="https://arxiv.org/pdf/2306.03186.pdf">here</a>! 
 * **Apr 2023**: Our paper on Proto-goal RL has been accepted at IJCAI 2023 -- looking forward to Macau!
 * **Feb 2023**: After an amazing internship with Tom at Deepmind, we have published my internship paper to <a href="https://arxiv.org/abs/2302.04693v1">arxiv</a>.
@@ -24,7 +24,7 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 
 ### __Conference Publications__
 
-* Effectively Learning Initiation Sets in Hierarchical Reinforcement Learning \\
+* <a href="https://openreview.net/pdf?id=4JCVw8oMlf" target="_blank">Effectively Learning Initiation Sets in Hierarchical Reinforcement Learning</a> \\
 __Akhil Bagaria__, Ben Abattamateo, Omer Gottesman, Sreehari Rammohan & George Konidaris\\
 In Proceedings Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023.
 
