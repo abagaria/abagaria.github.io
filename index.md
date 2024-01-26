@@ -92,5 +92,5 @@ Accepted, NeurIPS 2019 Replication Challenge
 * <a href="https://kshitijsachan.com/">Kshitij Sachan</a>: Now a research scientist at Redwood Research.
 * Alex Ivanov: Masters student at Brown.
 * Jason Senthil: Software engineer at Facebook.
-* <a href="https://sreeharirammohan.com/">Sreehari Rammohan: undergraduate at Brown</a>.
+* <a href="https://sreeharirammohan.com/" target="_blank">Sreehari Rammohan: undergraduate at Brown</a>.
 * Nicholas Lim
