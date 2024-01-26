@@ -79,10 +79,18 @@ Accepted, NeurIPS 2019 Replication Challenge
 <a href="https://github.com/eac-replication/eac-replication" target="_blank">[code]</a>
 
 ### __Invited Talks__
+* Oct 2023: Presented about discovering options for exploration at the <a href="https://all.cs.umass.edu/" target="_blank">Autonomous Learning Lab</a> at UMass Amherst.
+* Sep 2023: Talked about Coin Flip Networks at UT Austin's <a href="https://www.cs.utexas.edu/~rlrg/website.md.html" target="_blank">RL reading group</a>.
 * Aug 2023: Bridging Planning and RL Workshop at IJCAI (<a href="https://prl-theworkshop.github.io/prl2023-ijcai/" target="_blank">PRL</a>).
 * April 2023: Spoke about learning abstractions at Mykel Kochenderfer's <a href="https://web.stanford.edu/group/sisl/cgi-bin/wordpress/">SISL group</a> at Stanford.
 * December 2022: Presented my research about exploration and discovery at DeepMind, Alberta.
 * November 2022: Presented my internship project about proto-goals at the RL Team meeting and exploration reading group at DeepMind, London.
 * August 2022: Presented about pseudocounts at the exploration reading group at DeepMind, London.
 
-
+### __Undergraduates I have advised__
+* <a href="https://zhouzypaul.github.io/">Paul Zhou</a>: Now a PhD student at BAIR.
+* <a href="https://kshitijsachan.com/">Kshitij Sachan</a>: Now a research scientist at Redwood Research.
+* Alex Ivanov: Masters student at Brown.
+* Jason Senthil: Software engineer at Facebook.
+* Sreehari Rammohan: undergraduate at Brown.
+* Nicholas Lim
