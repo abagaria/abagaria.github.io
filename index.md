@@ -14,6 +14,7 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **Apr 2024**: I presented my research at Marc Bellemare and Glen Berseth's lab group meeting at MILA.
 * **Dec 2023**: I presented our <a href="https://openreview.net/pdf?id=4JCVw8oMlf" target="_blank">paper</a> on learning affordances at NeurIPS.
 * **Dec 2023**: I passed my PhD thesis proposal, my committee members are: <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="http://incompleteideas.net/" target="_blank">Rich Sutton</a>. 
 * **May 2023**: Our paper on count-based exploration has been accepted for an **Oral at ICML**, pre-print <a href="https://arxiv.org/pdf/2306.03186.pdf">here</a>! 
@@ -79,6 +80,7 @@ Accepted, NeurIPS 2019 Replication Challenge
 <a href="https://github.com/eac-replication/eac-replication" target="_blank">[code]</a>
 
 ### __Invited Talks__
+* Apr 2024: Presented at <a href=""http://www.marcgbellemare.info/">Marc Bellemare</a> and <a href="https://neo-x.github.io/">Glen Berseth's</a> group meeting in MILA.
 * Oct 2023: Presented about discovering options for exploration at the <a href="https://all.cs.umass.edu/" target="_blank">Autonomous Learning Lab</a> at UMass Amherst.
 * Sep 2023: Talked about Coin Flip Networks at UT Austin's <a href="https://www.cs.utexas.edu/~rlrg/website.md.html" target="_blank">RL reading group</a>.
 * Aug 2023: Bridging Planning and RL Workshop at IJCAI (<a href="https://prl-theworkshop.github.io/prl2023-ijcai/" target="_blank">PRL</a>).
