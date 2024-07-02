@@ -14,6 +14,8 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **June 2024**: I presented my PhD research about exploration in RL at the <a href="https://lis.csail.mit.edu/">Learning and Intelligent Systems</a> lab at MIT CSAIL. It was an honor talking to some of my academic heros like Leslie Kaelbling, Tomás Lozano-Pérez and Russ Tedrake! 
+* **May 2024**: I presented my research at  <a href="https://bair.berkeley.edu/index.html">Berkeley AI Research</a>, thanks to <a href="https://camallen.net/">Cam Allen</a> for hosting!
 * **Apr 2024**: I presented my research at <a href="http://www.marcgbellemare.info/">Marc Bellemare</a> and <a href="https://neo-x.github.io/">Glen Berseth's</a> group meeting at MILA.
 * **Dec 2023**: I presented our <a href="https://openreview.net/pdf?id=4JCVw8oMlf" target="_blank">paper</a> on learning affordances at NeurIPS.
 * **Dec 2023**: I passed my PhD thesis proposal, my committee members are: <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>, <a href="http://cs.brown.edu/~mlittman/" target="_blank">Michael Littman</a> and <a href="http://incompleteideas.net/" target="_blank">Rich Sutton</a>. 
