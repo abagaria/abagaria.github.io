@@ -7,13 +7,15 @@ img: img/abagaria2.JPG
 social_media: true
 ---
 
-I am a <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a>. I am a part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative. I was an intern in David Silver's RL team at <a href="https://www.deepmind.com/">DeepMind</a>, London in Summer 2022 where I was mentored by <a href="https://schaul.site44.com/">Tom Schaul</a>.
+I am a Research Scientist at Amazon, working on Reinforcement Learning. Most recently, I was <a href="https://cs.brown.edu/" target="_blank">Computer Science</a> PhD student at Brown University working with <a href="http://cs.brown.edu/people/gdk/" target="_blank">George Konidaris</a> as part of the <a href="http://irl.cs.brown.edu/"> Intelligent Robot Lab (IRL) </a> and the Brown <a href="http://bigai.cs.brown.edu/">BigAI</a> initiative. I was an intern in David Silver's RL team at <a href="https://www.deepmind.com/">DeepMind</a>, London in Summer 2022 where I was mentored by <a href="https://schaul.site44.com/">Tom Schaul</a>.
 
 I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">Reinforcement Learning (RL)</a> with the goal of creating general-purpose agents that can learn from raw sensorimotor data. Currently, I am focussed on the problems of exploration and skill discovery.
 
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **Sep 2024**: I started as a Research Scientist at Amazon, studying the application of RL in Amazon's supply chain.
+* **Aug 2024**: I successfully defended my Phd! Many thanks to my advisor, George Konidaris and my committee members Rich Sutton and Michael Littman.
 * **June 2024**: I presented my PhD research about exploration in RL at the <a href="https://lis.csail.mit.edu/">Learning and Intelligent Systems</a> lab at MIT CSAIL. It was an honor talking to some of my academic heros like Leslie Kaelbling, Tomás Lozano-Pérez and Russ Tedrake! 
 * **May 2024**: I presented my research at  <a href="https://bair.berkeley.edu/index.html">Berkeley AI Research</a>, thanks to <a href="https://camallen.net/">Cam Allen</a> for hosting!
 * **Apr 2024**: I presented my research at <a href="http://www.marcgbellemare.info/">Marc Bellemare</a> and <a href="https://neo-x.github.io/">Glen Berseth's</a> group meeting at MILA.
