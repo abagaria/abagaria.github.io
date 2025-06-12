@@ -14,7 +14,7 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
-* **May 2025**: My PhD thesis was selected as the **Best PhD Dissertation in Computer Science** for the 2025 academic year.
+* **May 2025**: My PhD thesis was selected as the **Best PhD Dissertation in Computer Science** by Brown for the 2025 academic year.
 * **May 2025**: My paper _Intrinsically Motivated Discovery of Temporally Abstract World Model Graphs_ has been accepted to RLC 2025. This paper is about how RL agents can discover models of the world that are abstract in both space and time, and do so in a way that enables long-horizon planning. Preprint coming soon!
 * **Sep 2024**: I started as a Research Scientist at Amazon, studying the application of RL in Amazon's supply chain.
 * **Aug 2024**: I successfully defended my Phd! Many thanks to my advisor, George Konidaris and my committee members Rich Sutton and Michael Littman.
