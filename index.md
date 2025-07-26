@@ -14,6 +14,7 @@ I study <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_
 I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016, where I was part of the <a href="https://www.lair.hmc.edu">Lab for Autonomous and Intelligent Robotics (LAIR)</a> and was advised by Professor Chris Clark. I then worked at Apple in Cupertino, CA for 2 years as part of the Multitouch Algorithms team under the leadership of Nicole Wells and <a href="https://en.wikipedia.org/wiki/FingerWorks">Wayne Westerman</a>. 
 
 ### __News__
+* **Jun 2025**: We have prepared a survey of hierarchical reinforcement learning (HRL). Pre-print is <a href="https://arxiv.org/pdf/2506.14045" target="_blank">here</a>, please send me your feedback!
 * **May 2025**: My PhD thesis was selected as the **Best PhD Dissertation in Computer Science** by Brown for the 2025 academic year.
 * **May 2025**: My paper _Intrinsically Motivated Discovery of Temporally Abstract World Model Graphs_ has been accepted to RLC 2025. This paper is about how RL agents can discover models of the world that are abstract in both space and time, and do so in a way that enables long-horizon planning. Preprint coming soon!
 * **Sep 2024**: I started as a Research Scientist at Amazon, studying the application of RL in Amazon's supply chain.
@@ -28,6 +29,10 @@ I graduated from <a href="https://www.hmc.edu/">Harvey Mudd College</a> in 2016,
 * **Feb 2023**: After an amazing internship with Tom at Deepmind, we have published my internship paper to <a href="https://arxiv.org/abs/2302.04693v1">arxiv</a>.
 
 ### __Conference Publications__
+
+* <a href="https://openreview.net/pdf?id=vjT2aL6Wlg" target="_blank">Intrinsically Motivated Discovery of Temporally Abstract Graph-based Models of the World</a>\\
+ __Akhil Bagaria__, Anita De Mello Koch, Rafael Rodriguez-Sanchez, Sam Lobel, and George Konidaris\\
+In Proceedings of the 2nd Reinforcement Learning Journal (RLJ) 2025.
 
 * <a href="https://openreview.net/pdf?id=4JCVw8oMlf" target="_blank">Effectively Learning Initiation Sets in Hierarchical Reinforcement Learning</a> \\
 __Akhil Bagaria__, Ben Abattamateo, Omer Gottesman, Sreehari Rammohan & George Konidaris\\
